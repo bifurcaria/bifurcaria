@@ -12,4 +12,4 @@ i'm @bifurcaria. i like to build stuff. junior front-end dev, midway graphic des
 
 **curriculum vitae**
 * [english](https://github.com/bifurcaria/bifurcaria/blob/main/CV-EN.pdf)
-* [spanish]([https://www.google.com](https://github.com/bifurcaria/bifurcaria/blob/main/CV-ES.pdf))
+* [spanish](https://github.com/bifurcaria/bifurcaria/blob/main/CV-ES.pdf)
