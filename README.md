@@ -1,6 +1,6 @@
 # hi there :-) #
 
-i'm @bifurcaria. i like to build stuff. junior front-end dev, midway graphic designer, former biologist, self-taught bookbinder.
+i'm @bifurcaria. i like to build stuff. front-end dev, graphic artist, former biologist, self-taught bookbinder.
 
 **languages and tools:**  
 
@@ -12,7 +12,6 @@ i'm @bifurcaria. i like to build stuff. junior front-end dev, midway graphic des
 
 **curriculum vitae**
 * [english](https://github.com/bifurcaria/bifurcaria/blob/main/CV-EN.pdf)
-* [spanish](https://github.com/bifurcaria/bifurcaria/blob/main/CV-ES.pdf)
 
 **portfolio**
 [here](https://bifurcaria.github.io/portfolio/)
