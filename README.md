@@ -1,3 +1,3 @@
 # hi :-) #
 
-software engineer, graphic artist, former biologist, self-taught bookbinder.
+software engineer, former biologist, self-taught bookbinder.
